@@ -1,0 +1,5 @@
+.linkItems:hover {
+	background-color: rgb(132, 132, 132);
+	border-radius: 15px;
+	padding-left: 10px;
+}

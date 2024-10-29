@@ -1,0 +1,12 @@
+button.defualt {
+	background-color: rgb(67, 136, 67);
+	color: white;
+}
+button.loading {
+	background-color: brown;
+	color: aliceblue;
+}
+button.loading:hover {
+	background-color: brown;
+	color: aliceblue;
+}
